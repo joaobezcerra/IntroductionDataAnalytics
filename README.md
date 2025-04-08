@@ -43,4 +43,4 @@ The key take-away from this visualization is the sharp rise in the transaction v
 
 when I analyze historical credit card data to understand what fraudulent transaction like performing a diagnostic analysis . this type of analysis involves a careful explanation of the data to understand the causes of the observed outcomes in this case , what characteristics or patters constitute a fraudulent transaction based on historical data .and in situation diagnostic analysis is the correct answer because examines past data and seeks to understand why particular event occurred .
 
----# IntroductionDataAnalytics
+# IntroductionDataAnalytics
